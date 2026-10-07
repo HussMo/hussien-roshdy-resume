@@ -1,0 +1,2 @@
+Publish on Netlify or GitHub Pages. Keep index.html and 'Hussien Roshdy Resume.pdf' in the same folder.
+Use the homepage URL as your profile link, and the direct PDF URL when a form specifically asks for a CV link.
